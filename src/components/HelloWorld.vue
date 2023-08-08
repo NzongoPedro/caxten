@@ -79,7 +79,5 @@ import { VuePDF, usePDF } from "@tato30/vue-pdf";
 const page = ref(1);
 const rotation = ref(0);
 const scale = ref(3);
-const { pdf, pages } = usePDF(
-  "https://www.lsi.usp.br/~ramc/redes_arquivos/CCNA_Cap01Mod01.pdf"
-);
+const { pdf, pages } = usePDF("./pdf/1.pdf");
 </script>
