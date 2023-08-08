@@ -5,7 +5,7 @@
         <div class="col-12">
           <div class="card text-center">
             <div class="card-header">
-              <div class="mt-4 alert">
+              <div class="mt-3 alert">
                 <a
                   href="#!"
                   class="btn btn-sm btn-primary border-1 rounded rounded-circle"
